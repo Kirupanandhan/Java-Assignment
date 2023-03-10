@@ -1,6 +1,6 @@
-#Java-Assignment
-##1.Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers.
-###PROGRAM :
+# Java-Assignment
+## 1.Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers.
+### PROGRAM :
 ```
 import java.sql.SQLOutput;
 import java.util.*;
@@ -44,11 +44,11 @@ public class assignment{
     }
 }
 ```
-###OUTPUT :
+### OUTPUT :
 ![image](https://user-images.githubusercontent.com/94386222/224345324-cc424b75-bec9-48e1-b9da-b0450698a377.png)
 
-##2.Write a Java program to compare two numbers.
-###PROGRAM :
+## 2.Write a Java program to compare two numbers.
+### PROGRAM :
 ```
 import java.util.*;
 public class q2 {
@@ -72,12 +72,12 @@ public class q2 {
 }
 
 ```
-###OUTPUT :
+### OUTPUT :
 ![image](https://user-images.githubusercontent.com/94386222/224345669-b474f976-7c2a-40df-91f3-6e2cefb146c0.png)
 
 
-##3.Write a Java program to convert a string to an integer.
-###PROGRAM :
+## 3.Write a Java program to convert a string to an integer.
+### PROGRAM :
 ```
 public class q3 {
     public static void main(String[]args){
@@ -88,12 +88,12 @@ public class q3 {
 }
 
 ```
-###OUTPUT:
+### OUTPUT:
 ![image](https://user-images.githubusercontent.com/94386222/224347612-9d56583a-8106-459d-87ed-d1322f7aece6.png)
-  
-##4.Write a Java Program to find area of rhombus
+   
+## 4.Write a Java Program to find area of rhombus
 
-###PROGRAM:
+### PROGRAM:
 ```
 import java.util.Scanner;
 
@@ -111,11 +111,11 @@ public class q4 {
 }
 
 ```
-###OUTPUT :
+### OUTPUT :
 ![image](https://user-images.githubusercontent.com/94386222/224349463-928796de-1b31-49cd-88a3-b7dbfacdb5b1.png)
 
-##5.Write a Java program to find the number of days in a month.
-###PROGRAM :
+## 5.Write a Java program to find the number of days in a month.
+### PROGRAM :
 ```
 import java.util.Scanner;
 
@@ -162,11 +162,11 @@ public class q5 {
 }
 
 ```
-###OUTPUT :
+### OUTPUT :
 ![image](https://user-images.githubusercontent.com/94386222/224352879-14d240e5-1ecf-4eb5-aa6a-bbd25c6ec972.png)
 
-##6.Write a Java program to print the even numbers from 1 to 20.
-###PROGRAM:
+## 6.Write a Java program to print the even numbers from 1 to 20.
+### PROGRAM:
 ```
 import java.util.Scanner;
 
@@ -185,11 +185,11 @@ public class q6 {
 }
 
 ```
-###OUTPUT :
+### OUTPUT :
 ![image](https://user-images.githubusercontent.com/94386222/224355001-2f80be07-9d37-491b-92af-1f7b7d268580.png)
 
-##7.Write a Java program to create a simple calculator.
-###PROGRAM :
+## 7.Write a Java program to create a simple calculator.
+### PROGRAM :
 ```
 import java.util.Scanner;
 
@@ -227,11 +227,11 @@ public class SimpleCalculator {
 }
 
 ```
-###OUTPUT :
+### OUTPUT :
 ![image](https://user-images.githubusercontent.com/94386222/224357911-4399bb9a-ddb0-4873-8191-3a833cecf880.png)
 
-##8.Write a Java program to print multiplication table of given number.
-###PROGRAM :
+## 8.Write a Java program to print multiplication table of given number.
+### PROGRAM :
 ```
 import java.util.Scanner;
 
@@ -253,6 +253,6 @@ public class MultiplicationTable {
 }
 
 ```
-###OUTPUT :
+### OUTPUT :
 ![image](https://user-images.githubusercontent.com/94386222/224359010-0e6e7546-ed2f-4d88-9753-dd3dd24aacde.png)
 
