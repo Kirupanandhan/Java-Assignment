@@ -1,5 +1,5 @@
-# Java-Assignment
-## 1.Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers.
+#Java-Assignment
+##1.Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers.
 ###PROGRAM :
 ```
 import java.sql.SQLOutput;
@@ -44,11 +44,11 @@ public class assignment{
     }
 }
 ```
-### OUTPUT :
+###OUTPUT :
 ![image](https://user-images.githubusercontent.com/94386222/224345324-cc424b75-bec9-48e1-b9da-b0450698a377.png)
 
 ##2.Write a Java program to compare two numbers.
-### PROGRAM :
+###PROGRAM :
 ```
 import java.util.*;
 public class q2 {
@@ -72,7 +72,7 @@ public class q2 {
 }
 
 ```
-### OUTPUT :
+###OUTPUT :
 ![image](https://user-images.githubusercontent.com/94386222/224345669-b474f976-7c2a-40df-91f3-6e2cefb146c0.png)
 
 
