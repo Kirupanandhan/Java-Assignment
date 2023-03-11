@@ -47,7 +47,7 @@ public class assignment{
 ### OUTPUT :
 ![image](https://user-images.githubusercontent.com/94386222/224345324-cc424b75-bec9-48e1-b9da-b0450698a377.png)
 
-## 2.Write a Java program to compare two numbers.
+## 2.Write a Java program to compare two numbers
 ### PROGRAM :
 ```
 import java.util.*;
