@@ -91,7 +91,7 @@ public class q3 {
 ### OUTPUT:
 ![image](https://user-images.githubusercontent.com/94386222/224347612-9d56583a-8106-459d-87ed-d1322f7aece6.png)
    
-## 4.Write a Java Program to find area of rhombus
+## 4.Write a Java Program to find area of rhombus.
 
 ### PROGRAM:
 ```
